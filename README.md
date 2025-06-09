@@ -14,26 +14,11 @@ Este proyecto consiste en el análisis y resolución de los ejercicios/desafíos
 
 ---
 
-## Contenido del repositorio
-
-- `challenge-telecomX-alura.ipynb`: Notebook principal con todo el desarrollo del proyecto.
-- (Aquí podés agregar más archivos si los tenés, por ejemplo, datasets, scripts, etc.)
-
----
-
-## Cómo usar este proyecto
-
-1. Abrir el archivo `challenge-telecomX-alura.ipynb` en Google Colab o Jupyter Notebook.
-2. Ejecutar las celdas para reproducir el análisis y resultados.
-3. Modificar o extender el notebook según necesites.
-
----
-
 ## Tecnologías usadas
 
 - Python 3
 - Google Colab
-- Librerías: pandas, numpy, matplotlib, seaborn (o las que uses)
+- Librerías: pandas, numpy, matplotlib, seaborn
 
 ---
 
@@ -45,5 +30,5 @@ Nicolás Carrizo
 
 ## Contacto
 
-Para dudas o sugerencias, contactarme en [tu correo o perfil de GitHub].
+Para dudas o sugerencias, contactarme en [carrizonicolasd8@gmail.com].
 
